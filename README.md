@@ -1,4 +1,4 @@
-# 👋 Olá! Sou Sanmir Cruz
+# Olá! Sou Sanmir Cruz (👍≖‿≖)👍
 
 <div align="center">
   <a href="https://github.com/Sancruz-dev">
@@ -7,6 +7,7 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
+  function 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,9 +17,12 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Programming-gif" height="252" style="border-radius:50px;" src="https://user-images.githubusercontent.com/83969467/150009028-382503a7-c4b6-421a-8f85-5b25cf1e1a06.gif">
+  ( )
+  {
+  <img align="center" alt="Programming-gif" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/83969467/150009028-382503a7-c4b6-421a-8f85-5b25cf1e1a06.gif">
+  }
 </div>
-
+  
   ##
   
 <div align="center">
