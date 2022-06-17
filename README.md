@@ -1,4 +1,4 @@
-# Olá! Sou Sanmir Cruz (👍≖‿≖)👍
+# Olá dev! Bem vindo ao meu github (👍≖‿≖)👍
 
 <div align="center">
   <a href="https://github.com/Sancruz-dev">
