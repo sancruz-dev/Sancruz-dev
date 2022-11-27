@@ -1,4 +1,15 @@
-# Olá dev! Bem vindo ao meu github (👍≖‿≖)👍
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3355FF&height=100&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Sanmir+Cruz;Be+Welcome+(👍≖‿≖)👍!;I'm+19+years+old;I+from+Brasil,+SP;I'm+a+frontend+developer;and+today+I+study+full+stack+web+development+:%29)](https://git.io/typing-svg)
+
+
+## Main Stacks
+
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 <div align="center">
   <a href="https://github.com/Sancruz-dev">
@@ -30,3 +41,5 @@
   <a href = "mailto:sancruz.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://wa.me/5511972874030"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3355FF&height=100&section=footer"/>
