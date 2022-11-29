@@ -28,6 +28,9 @@
 ![SOLID](https://img.shields.io/badge/-solid-0D1117?style=for-the-badge&logo=solid&logoColor=fff&labelColor=0D1117)&nbsp; 
 ![TAILWINDCSS](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=15b4c1&labelColor=0D1117)&nbsp; 
 ![GULPJS](https://img.shields.io/badge/-gulp-0D1117?style=for-the-badge&logo=gulp&logoColor=df4647&labelColor=0D1117)&nbsp; 
+![FIGMA](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=09c47d&labelColor=0D1117)&nbsp; 
+![CANVA](https://img.shields.io/badge/-canva-0D1117?style=for-the-badge&logo=canva&logoColor=0090d0&labelColor=0D1117)&nbsp; 
+![PS](https://img.shields.io/badge/-ps-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=0090d0&labelColor=0D1117)&nbsp; 
 
 <div align="center">
   <a href="https://github.com/Sancruz-dev">
