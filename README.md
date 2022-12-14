@@ -42,16 +42,15 @@
 
 <div align="center">  
 
-## Social Links
+## Follow me on
 
 <div/>
 
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link&=20=mailto:sancruz.dev@gmail.com)](mailto:sancruz.dev@gmail.com)&nbsp;&nbsp;
-  [![whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-rounded&logo=whatsapp&logoColor=white&link&=20=https://wa.me/5511972874030)](https://wa.me/5511972874030)&nbsp;&nbsp;
-  [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-rounded&logo=discord&logoColor=white&link&=20=https://discord.gg/vbHXDDDDx7)](https://discord.gg/vbHXDDDDx7)&nbsp;&nbsp;
-  [![gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-rounded&logo=gmail&logoColor=white&link&=20=https://www.gmail.com/in/sanmir-cruz/)](https://www.gmail.com/in/sanmir-cruz/)&nbsp;&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link&=20=mailto:sancruz.dev@gmail.com)](mailto:sancruz.dev@gmail.com)&nbsp;&nbsp;
+[![instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-rounded&logo=instagram&logoColor=white&link&=20=https://www.instagram.com/sancruz_dev/)](https://www.instagram.com/sancruz_dev/)&nbsp;&nbsp;
+[![twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-rounded&logo=twitter&logoColor=white&link&=20=https://twitter.com/SanCruz_Dev)](https://twitter.com/SanCruz_Dev)&nbsp;&nbsp;
 
 </div>
   
