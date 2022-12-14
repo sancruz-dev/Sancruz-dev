@@ -51,6 +51,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-rounded&logo=Linkedin&logoColor=white&link&=20=mailto:sancruz.dev@gmail.com)](mailto:sancruz.dev@gmail.com)&nbsp;&nbsp;
 [![instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-rounded&logo=instagram&logoColor=white&link&=20=https://www.instagram.com/sancruz_dev/)](https://www.instagram.com/sancruz_dev/)&nbsp;&nbsp;
 [![twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-rounded&logo=twitter&logoColor=white&link&=20=https://twitter.com/SanCruz_Dev)](https://twitter.com/SanCruz_Dev)&nbsp;&nbsp;
+[![codepen Badge](https://img.shields.io/badge/-CodePen-000?style=flat-rounded&logo=codepen&logoColor=white&link&=20=https://codepen.io/sancruz-dev)](https://codepen.io/sancruz-dev)&nbsp;&nbsp;
 
 </div>
   
